@@ -13,7 +13,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/cyberchekuthan">ChinjuMwol</a> to make it public
+Project created by <a href="https://github.com/ChinjuMwol">ChinjuMwol</a> to make it public
     <br>
        | © |
         Reserved |
@@ -25,7 +25,7 @@ Project created by <a href="https://github.com/cyberchekuthan">ChinjuMwol</a> to
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyberchekuthan/Amalser_v2) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ajnas-dz/ChinjuMwol) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
   
