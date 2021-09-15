@@ -11,21 +11,21 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     
     
    
-  r_text[0] = "https://i.imgur.com/yCYYyEJ.jpeg";
+  r_text[0] = "https://telegra.ph/file/525403727a7f90ed9fc08.jpg";
     
     
     var i = Math.floor(1*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*creater Amal*
-*owner number wa.me/919895828468*
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*creater Ajnas-dz*
 
-*bot setting video : https://youtu.be/RlSG4ZgPls0*
 
-*githublink : https://github.com/cyberchekuthan/Amalser_v2*
 
-*audio commads : https://github.com/cyberchekuthan/Amalser_v2/tree/master/uploads*
+
+*githublink : https://github.com/Ajnas-dz/ChinjuMwol*
+
+
 `}) 
 
 }));
