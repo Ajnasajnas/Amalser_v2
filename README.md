@@ -13,7 +13,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/ChinjuMwol">ChinjuMwol</a> to make it public
+Project created by <a href="https://github.com/Ajnasajnas">ChinjuMwol</a> to make it public
     <br>
        | © |
         Reserved |
@@ -25,9 +25,9 @@ Project created by <a href="https://github.com/ChinjuMwol">ChinjuMwol</a> to mak
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ajnas-dz/ChinjuMwol) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ajnasajnas/ElsaMwol) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Muhammedajnas/ELSAMWOL-QR)
   
 ### The Hard Method
 ```js
