@@ -1,15 +1,15 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+ChinjuMwol+WA+Bot+repo;Created+by+Ajnas;This+is+a+Bgm+stickerbot;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+ELSAMWOL+WA+Bot+repo;Created+by+AJNAS;This+is+a+Bgm+stickerbot;With+more+features)](https://git.io/typing-svg)
 
  </a>
 </p>
 <div align="center">
   <p align="center">
-<img src="https://telegra.ph/file/525403727a7f90ed9fc08.jpg?cid=790b7611a48d56eec88e20cfedb2c8be6e08c0fde3f8fe72&rid=giphy.gif&ct=g.gif" alt="GIF" width="300" height="250"/>
+<img src="https://telegra.ph/file/525403727a7f90ed9fc08.jpg" alt="IMG" width="300" height="250"/>
 </p>
   <p align="center">
-<a href="https://github.com/cyberchekuthan"><img title="Author" src="https://img.shields.io/badge/Author-Ajnas-dz/ChinjuMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/cyberchekuthan"><img title="Author" src="https://img.shields.io/badge/Author-Ajnasajnas/ElsaMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
